@@ -4,7 +4,7 @@
 
 
 ## 📋요구사항 기능정의서
-![image](https://user-images.githubusercontent.com/110898315/233538854-d0da5a30-95d2-43cb-aab9-b33c6250010d.png)
+![요구사항정의서](https://user-images.githubusercontent.com/110898315/233539078-680a14d7-e43a-437f-b2ff-916e368e545f.png)
 
 
 <br>
